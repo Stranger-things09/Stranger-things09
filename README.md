@@ -1,10 +1,8 @@
-# Hey, I'm AbTrax! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+## Hey, I'm Kriti! Nice to Meet You! 
 ###
 
-<div align="center">
-  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
-</div>
+![Mad](https://github.com/user-attachments/assets/8d3b1046-8228-4153-9335-202cfe101354)
+
 
 ###
 
@@ -23,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbTrax&theme=bear" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stranger-things09&theme=bear" width=750  alt="stats graph"/>
 
 </div>
 
